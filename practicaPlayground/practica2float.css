@@ -1,0 +1,15 @@
+section {
+    background-color: lightseagreen;
+    padding: 40px;
+    overflow: hidden;
+  }
+  
+  article {
+      float: left;
+      width: 20%;
+      margin-left: 2.5%;
+      margin-right: 2.5%;
+      text-align: center;
+      border-left: solid 5px dodgerblue;
+      box-sizing: border-box;
+  }
